@@ -1,0 +1,13 @@
+syntax:glob
+
+*.pubxml
+*.log
+*.log.**
+HOAU.BL/bower_components/**
+bin/**
+obj/**
+_bin_deployableAssemblies/**
+*pubxml.**
+HOAU.sln.DotSettings.user
+*.suo
+**/node_modules/**
